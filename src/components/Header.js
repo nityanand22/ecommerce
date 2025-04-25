@@ -45,7 +45,7 @@ const Header = () => {
     });
     //* Unsubscribe when the component unmounts
     return () => unsubscribe();
-  }, []);
+  }, [dispatch, navigate]);
 
   return (
     <header className="flex flex-col md:flex-row justify-between items-center p-4 bg-white shadow-md">
