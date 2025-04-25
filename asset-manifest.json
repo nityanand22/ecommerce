@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.3c297c14.css",
+    "main.js": "/ecommerce/static/js/main.c81c5604.js",
+    "static/js/739.d0af52d5.chunk.js": "/ecommerce/static/js/739.d0af52d5.chunk.js",
+    "static/js/453.1d9a75e6.chunk.js": "/ecommerce/static/js/453.1d9a75e6.chunk.js",
+    "static/media/man3.jpg": "/ecommerce/static/media/man3.de3ed5bf2c741079b50a.jpg",
+    "static/media/fashion.webp": "/ecommerce/static/media/fashion.d931e9b3968e8f14fec7.webp",
+    "static/media/man2.jpg": "/ecommerce/static/media/man2.c74b040ebca1e170d0f8.jpg",
+    "index.html": "/ecommerce/index.html",
+    "main.3c297c14.css.map": "/ecommerce/static/css/main.3c297c14.css.map",
+    "main.c81c5604.js.map": "/ecommerce/static/js/main.c81c5604.js.map",
+    "739.d0af52d5.chunk.js.map": "/ecommerce/static/js/739.d0af52d5.chunk.js.map",
+    "453.1d9a75e6.chunk.js.map": "/ecommerce/static/js/453.1d9a75e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c297c14.css",
+    "static/js/main.c81c5604.js"
+  ]
+}
