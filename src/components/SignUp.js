@@ -147,7 +147,7 @@ const SignUp = () => {
               type="password"
               id="password"
               name="password"
-              placeholder="Enter Your Password"
+              placeholder="Enter Your Password (Abc123)"
               className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"
               value={formData.password}
               onChange={handleChange}
